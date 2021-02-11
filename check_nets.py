@@ -1,6 +1,5 @@
 import ipaddress
 import pathlib
-import socket
 
 # Place all files in the same directory as the python script.
 # Each file should contain one network per line. Single IPs will be converted to /32
